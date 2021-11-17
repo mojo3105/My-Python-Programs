@@ -1,0 +1,5 @@
+print("Enter any number")
+num1=int(input())
+print("Enter second number")
+num2=int(input())
+print("The addition is" ,num1+num2)
